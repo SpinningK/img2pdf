@@ -28,7 +28,7 @@ python3 main.py
 ```
 
 ### Convert your own images
-> If you put your own images in the "images" directory of this project just like the demo, simply run:
+> You can put your own images in the "images" directory of this project just like the demo, and simply run:
 ``` shell
 python3 main.py
 ```
